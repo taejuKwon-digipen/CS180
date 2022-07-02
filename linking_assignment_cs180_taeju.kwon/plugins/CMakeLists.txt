@@ -1,0 +1,2 @@
+add_subdirectory(random_maps)
+add_subdirectory(taejus_three_maps)

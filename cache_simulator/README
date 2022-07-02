@@ -1,0 +1,28 @@
+This is the handout directory for the Cache Simulator Assignment. 
+
+************************
+Running the autograders:
+************************
+
+Before running the autograders, compile your code:
+    linux> make
+
+Check the correctness of your simulator:
+    linux> ./test-csim
+
+
+******
+Files:
+******
+
+# You will be modifying and handing in this file
+csim.cpp       Your cache simulator
+
+# Tools for evaluating your simulator and transpose function
+Makefile     Builds the simulator and tools
+README       This file
+cachelab.cpp   Required helper functions
+cachelab.h   Required header file
+csim-ref*    The executable reference cache simulator
+test-csim*   Tests your cache simulator
+traces/      Trace files used by test-csim.c
